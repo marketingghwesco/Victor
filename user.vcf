@@ -7,7 +7,7 @@ ORG:GH Wesco;
 TITLE:Analista de Suporte, Comercial
 EMAIL;type=INTERNET;type=WORK;type=pref:nayara@ghwesco.com.br
 TEL;type=WORK;type=VOICE:011 99578 8661
-item1.ADR;type=WORK;type=pref:;;Machado Bitencourt, 361\, Vila Clementino;;;138577;São Paulo
+item1.ADR;type=WORK;type=pref:;;Machado Bitencourt, 361\, Vila Clementino;;;;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:ghwesco.com.br
 item2.X-ABLabel:_$!<HomePage>!$_
