@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Nayara;Lopes;;;
-FN: Lopes  Nayara 
+N:Carolina;Schoti;;;
+FN: Schoti  Carolina 
 ORG:GH Wesco;
-TITLE:Analista de Suporte, Comercial
-EMAIL;type=INTERNET;type=WORK;type=pref:nayara@ghwesco.com.br
+TITLE:Gerente de contas,
+EMAIL;type=INTERNET;type=WORK;type=pref:carolina.schoti@ghwesco.com.br
 TEL;type=WORK;type=VOICE:011 99578 8661
 item1.ADR;type=WORK;type=pref:;;Machado Bitencourt, 361\, Vila Clementino;;;;São Paulo
 item1.X-ABADR:sg
