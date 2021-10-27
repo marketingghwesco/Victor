@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Luis;Amorim;;;
-FN: Amorim  Luis 
+N:Rodrigo;Araya;;;
+FN: Araya  Rodrigo 
 ORG:GH Wesco;
 TITLE:Gerente de vendas,
-EMAIL;type=INTERNET;type=WORK;type=pref:luis.amorim@ghwesco.com.br
-TEL;type=WORK;type=VOICE:011 99237 4470
+EMAIL;type=INTERNET;type=WORK;type=pref:rodrigo.araya@ghwesco.com.br
+TEL;type=WORK;type=VOICE:011 99279 0282
 item1.ADR;type=WORK;type=pref:;;Machado Bitencourt, 361\, Vila Clementino;;;;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:ghwesco.com.br
